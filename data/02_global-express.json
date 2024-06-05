@@ -1,0 +1,66 @@
+{
+    "name": "Global Express",
+    "source": "https://t.me/Mariupol_global_express/1989",
+    "points": [
+        {
+            "coordinates": [
+                37.775896,
+                47.959707
+            ],
+            "name": "Донецк 7 (микр-н Звездный)",
+            "link": "https://ozon.ru/point/534953",
+            "address": "Донецк, пр-кт Ленинский 98А",
+            "operationTime": "пн-вс с 9:00 до 17:00"
+        },
+        {
+            "coordinates": [
+                37.811995,
+                48.011767
+            ],
+            "name": "Донецк 8 (Крытый рынок)",
+            "link": "https://ozon.ru/point/533323",
+            "address": "Донецк, ул. 50-летия СССР 157А",
+            "operationTime": "пн-пт с 9:00 до 17:00"
+        },
+        {
+            "coordinates": [
+                37.799192,
+                47.991666
+            ],
+            "name": "Донецк 1 (Южный)",
+            "link": "https://ozon.ru/point/533347",
+            "address": "Донецк, площадь Коммунаров 1к1, ТЦ «Южный»",
+            "operationTime": "пн-пт с 9:00 до 17:00, сб-вс с 10:00 ло 17:00"
+        },
+        {
+            "coordinates": [
+                38.635921,
+                48.047327
+            ],
+            "name": "Торез 3",
+            "link": "https://ozon.ru/point/533350",
+            "address": "г. Торез, 4й микрорайон, (торговые павильоны в районе дома 23)",
+            "operationTime": "пн-вс с 9:00 до 17:00"
+        },
+        {
+            "coordinates": [
+                38.761523,
+                48.021133
+            ],
+            "name": "Снежное",
+            "link": "https://ozon.ru/point/534920",
+            "address": "Снежное, ул. Дзержинского, 2",
+            "operationTime": "пн-вс с 9:00 до 17:00"
+        },
+        {
+            "coordinates": [
+                38.208714,
+                48.221055
+            ],
+            "name": "Енакиево",
+            "link": "https://ozon.ru/point/534903",
+            "address": "Енакиево, проспект Ленина, 98в",
+            "operationTime": "пн-вс с 9:00 до 17:00"
+        }
+    ]
+}

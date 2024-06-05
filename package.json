@@ -1,0 +1,24 @@
+{
+  "name": "free-ozon-dpr",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.2.0",
+    "vite-plugin-radar": "^0.9.6",
+    "vite-plugin-webfont-dl": "^3.9.4"
+  },
+  "dependencies": {
+    "jsdom": "^24.1.0",
+    "modern-async": "^2.0.0",
+    "node-fetch": "^3.3.2",
+    "ol": "^9.2.3",
+    "p-iteration": "^1.1.8",
+    "qrcode": "^1.5.3"
+  }
+}

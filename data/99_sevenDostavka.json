@@ -1,0 +1,501 @@
+{
+    "name": "7dostavka",
+    "source": "https://dostavka.7telecom.ru",
+    "points": [
+        {
+            "coordinates": [
+                37.694046,
+                47.949874
+            ],
+            "link": "https://ozon.ru/point/517053",
+            "name": "г.Донецк, ул. Петровского, 111в",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.790642,
+                47.988073
+            ],
+            "link": "https://ozon.ru/point/517054",
+            "name": "г.Донецк, пр-т. Ленинский, 4",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.7964,
+                48.00381
+            ],
+            "link": "https://ozon.ru/point/517061",
+            "name": "г.Донецк, пр-т. Гурова, 7",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.960468,
+                48.041197
+            ],
+            "link": "https://ozon.ru/point/517062",
+            "name": "г.Макеевка, ул.Рябцева, 1",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.781488,
+                48.03651
+            ],
+            "link": "https://ozon.ru/point/517055",
+            "name": "г.Донецк, ул. Артема, 148а",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.84543,
+                47.997956
+            ],
+            "link": "https://ozon.ru/point/517058",
+            "name": "г.Донецк, ул. Харитонова, 3А",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.835405,
+                48.002471
+            ],
+            "link": "https://ozon.ru/point/514844",
+            "name": "г.Донецк, пр. Ильича, 32",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.807934,
+                48.014371
+            ],
+            "link": "https://ozon.ru/point/517059",
+            "name": "г.Донецк, ул. Челюскинцев, 167",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.899868,
+                47.991365
+            ],
+            "link": "https://ozon.ru/point/517056",
+            "name": "г.Донецк, ул. Полоцкая, 9",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.798637,
+                48.009
+            ],
+            "link": "https://ozon.ru/point/514822",
+            "name": "г.Донецк, ул. Университетская, 34",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.551447,
+                47.106867
+            ],
+            "link": "https://ozon.ru/point/516734",
+            "name": "г.Мариуполь, пр. Металлургов, 94",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.525568,
+                47.122058
+            ],
+            "link": "https://ozon.ru/point/518290",
+            "name": "г. Мариуполь ул. Урицкого 63",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.798565,
+                48.006733
+            ],
+            "link": "https://ozon.ru/point/524639",
+            "name": "Донецк, Университетская улица, 26",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.964861,
+                48.042703
+            ],
+            "link": "https://ozon.ru/point/524695",
+            "name": "Макеевка, улица Ленина, 50А",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.964385,
+                48.063151
+            ],
+            "link": "https://ozon.ru/point/533299",
+            "name": "Макеевка, улица Ленина, 108",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.084633,
+                47.118353
+            ],
+            "link": "https://ozon.ru/point/533305",
+            "name": "Новоазовск, улица Ленина, 48",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.907342,
+                47.977482
+            ],
+            "link": "https://ozon.ru/point/533308",
+            "name": "Донецк, Прожекторная улица, 3",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.811483,
+                48.008554
+            ],
+            "link": "https://ozon.ru/point/533314",
+            "name": "Донецк, улица 50-летия СССР, 150",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.811995,
+                48.011767
+            ],
+            "link": "https://ozon.ru/point/533323",
+            "name": "Донецк, улица 50-летия СССР, 157А",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.81151,
+                47.996997
+            ],
+            "link": "https://ozon.ru/point/533329",
+            "name": "Донецк, улица 50-летия СССР, 100",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.747963,
+                48.034757
+            ],
+            "link": "https://ozon.ru/point/533332",
+            "name": "Донецк, улица Куйбышева, 217Б",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.700397,
+                47.945124
+            ],
+            "link": "https://ozon.ru/point/533345",
+            "name": "Донецк, Кировский район, улица Островского, 20",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.799246872352064,
+                47.9923165496424
+            ],
+            "link": "https://ozon.ru/point/533347",
+            "name": "Донецк, ул. Павших Коммунаров 1. ТЦ «Южный»",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.920403,
+                47.975341
+            ],
+            "link": "https://ozon.ru/point/533348",
+            "name": "Донецк, Раздольная улица, 6",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.63568014484321,
+                48.04716934567845
+            ],
+            "link": "https://ozon.ru/point/533350",
+            "name": "Чистяково / Торез, 4-й микрорайон, (Торговые павильоны в районе дома 23)",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.778362,
+                47.978513
+            ],
+            "link": "https://ozon.ru/point/534899",
+            "name": "Донецк, ул. Воровского 9",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.02274,
+                48.045721
+            ],
+            "link": "https://ozon.ru/point/534902",
+            "name": "г. Макеевка, пр. генерала Данилова 71б",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.208529,
+                48.221568
+            ],
+            "link": "https://ozon.ru/point/534903",
+            "name": "Енакиево, пр. Ленина 98В",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.761523,
+                48.021133
+            ],
+            "link": "https://ozon.ru/point/534903",
+            "name": "Снежное, ул. Дзержинского, 2",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.145171,
+                48.04074
+            ],
+            "link": "https://ozon.ru/point/535038",
+            "name": "г. Харцызск, ул. Октябрьская 84",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.140113,
+                48.056208
+            ],
+            "link": "https://ozon.ru/point/534940",
+            "name": "г. Харцызск, м-н Юбилейный 4",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.854225,
+                48.008783
+            ],
+            "link": "https://ozon.ru/point/534940",
+            "name": "Донецк, бул. Шахтостроителей 20",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.775974,
+                47.959049
+            ],
+            "link": "https://ozon.ru/point/534953",
+            "name": "Донецк, пр - кт Ленинский, остановка ‘ Звездный’",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.955132,
+                48.098353
+            ],
+            "link": "https://ozon.ru/point/534953",
+            "name": "Макеевка, кв. Северный 17",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.70346,
+                47.970189
+            ],
+            "link": "https://ozon.ru/point/535056",
+            "name": "Донецк, улица Коммунаров, 38",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.800029,
+                48.022302
+            ],
+            "link": "https://ozon.ru/point/536823",
+            "name": "Донецк, ул. Артема 147б",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.914115,
+                47.991516
+            ],
+            "link": "https://ozon.ru/point/536826",
+            "name": "Донецк, ул. Независимости 16Д",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.616993,
+                48.026858
+            ],
+            "link": "https://ozon.ru/point/536825",
+            "name": "Торез, Пионерская 1",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.266246,
+                48.007403
+            ],
+            "link": "https://ozon.ru/point/536839",
+            "name": "г. Зугрес, ул. Рыночная 1",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.15684,
+                48.034052
+            ],
+            "link": "https://ozon.ru/point/536623",
+            "name": "г. Харцызск, ул. Шалимова 14Б",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.010271,
+                48.303874
+            ],
+            "link": "https://ozon.ru/point/536824",
+            "name": "Горловка, проспект Победы 55",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.142934,
+                48.321593
+            ],
+            "link": "https://ozon.ru/point/536836",
+            "name": "Горловка, ул. 40 лет Украины 9",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.059606,
+                48.329483
+            ],
+            "link": "https://ozon.ru/point/536827",
+            "name": "Горловка, ул. Бессонова 29а",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.020943,
+                48.305576
+            ],
+            "link": "https://ozon.ru/point/536832",
+            "name": "Горловка, ул. Гагарина 32",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.211377,
+                48.248815
+            ],
+            "link": "https://ozon.ru/point/536666",
+            "name": "Енакиево, 50 лет Октября 58а",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                38.20826,
+                48.218447
+            ],
+            "link": "https://ozon.ru/point/536668",
+            "name": "Енакиево, ул. Ленина 91а",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.554403,
+                47.1071
+            ],
+            "link": "https://ozon.ru/point/536829",
+            "name": "Мариуполь, пр. Металлургов 97",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.567455,
+                47.13514
+            ],
+            "link": "https://ozon.ru/point/536828",
+            "name": "Мариуполь, пр. Металлургов 227",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.65426,
+                47.106075
+            ],
+            "link": "https://ozon.ru/point/536673",
+            "name": "Мариуполь, пр. Победы 89",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.687749,
+                47.125122
+            ],
+            "link": "https://ozon.ru/point/536837",
+            "name": "Мариуполь, ул. Киевская 51",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.675083,
+                47.113282
+            ],
+            "link": "https://ozon.ru/point/536835",
+            "name": "Мариуполь, ул. Февральская 44а",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.539257,
+                47.096568
+            ],
+            "link": "https://ozon.ru/point/536831",
+            "name": "Мариуполь, Казанцева 22а",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.810324,
+                47.953404
+            ],
+            "link": "https://ozon.ru/point/536838",
+            "name": "Донецк, ул. Речная 24Б",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.793471,
+                47.973459
+            ],
+            "link": "https://ozon.ru/point/536830",
+            "name": "Донецк, ул. Пилотная 28",
+            "operationTime": "неизвестно"
+        },
+        {
+            "coordinates": [
+                37.849239,
+                48.009934
+            ],
+            "link": "https://ozon.ru/point/536833",
+            "name": "Донецк, бул. Шевченко, 66",
+            "operationTime": "неизвестно"
+        }
+    ]
+}
