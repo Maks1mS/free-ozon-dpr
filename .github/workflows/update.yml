@@ -24,6 +24,8 @@ jobs:
 
       - name: Update points
         run: node scripts/update.js && node scripts/merge-data.js 
+        env:
+          NODE_DEBUG: net
       
       - name: Commit changes
         run: |
