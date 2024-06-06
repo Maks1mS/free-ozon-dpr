@@ -43,7 +43,7 @@ function onClick(event) {
 
   popupName.textContent = feature.get("name");
   popupAddress.textContent = feature.get("address");
-  popupAddress.href = `https://yandex.ru/maps/?pt=${lon},${lat}&z=18&l=map`
+  popupAddress.href = `https://yandex.ru/maps/?whatshere[point]=${lon},${lat}&whatshere[zoom]=18&l=map`
   popupLink.href = feature.get("link");
   popupSource.href = feature.get("source");
   popupOperationTime.textContent = feature.get("operationTime") ?? "неизвестно";
