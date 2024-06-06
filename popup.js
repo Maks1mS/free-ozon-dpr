@@ -2,6 +2,7 @@ import map from "./map";
 import { Overlay } from "ol";
 import QRCode from "qrcode";
 import { el } from "./utils";
+import { toLonLat } from "ol/proj";
 
 const container = el("popup");
 const closer = el("popup-closer");
@@ -38,8 +39,11 @@ function onClick(event) {
 
   const coordinates = feature.getGeometry().getCoordinates();
 
+  const [lon, lat] = toLonLat(coordinates);
+
   popupName.textContent = feature.get("name");
   popupAddress.textContent = feature.get("address");
+  popupAddress.href = `https://yandex.ru/maps/?pt=${lon},${lat}&z=18&l=map`
   popupLink.href = feature.get("link");
   popupSource.href = feature.get("source");
   popupOperationTime.textContent = feature.get("operationTime") ?? "неизвестно";

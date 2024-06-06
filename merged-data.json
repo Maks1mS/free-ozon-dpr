@@ -690,6 +690,7 @@
     ],
     "link": "https://ozon.ru/point/518290",
     "name": "г. Мариуполь ул. Урицкого 63",
+    "address": "г. Мариуполь ул. Урицкого 63",
     "operationTime": "неизвестно",
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -701,6 +702,7 @@
     ],
     "link": "https://ozon.ru/point/524695",
     "name": "Макеевка, улица Ленина, 50А",
+    "address": "Макеевка, улица Ленина, 50А",
     "operationTime": "неизвестно",
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -712,6 +714,7 @@
     ],
     "link": "https://ozon.ru/point/533299",
     "name": "Макеевка, улица Ленина, 108",
+    "address": "Макеевка, улица Ленина, 108",
     "operationTime": "неизвестно",
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -723,6 +726,7 @@
     ],
     "link": "https://ozon.ru/point/536829",
     "name": "Мариуполь, пр. Металлургов 97",
+    "address": "Мариуполь, пр. Металлургов 97",
     "operationTime": "неизвестно",
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -734,6 +738,7 @@
     ],
     "link": "https://ozon.ru/point/536828",
     "name": "Мариуполь, пр. Металлургов 227",
+    "address": "Мариуполь, пр. Металлургов 227",
     "operationTime": "неизвестно",
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -745,6 +750,7 @@
     ],
     "link": "https://ozon.ru/point/536673",
     "name": "Мариуполь, пр. Победы 89",
+    "address": "Мариуполь, пр. Победы 89",
     "operationTime": "неизвестно",
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -756,6 +762,7 @@
     ],
     "link": "https://ozon.ru/point/536837",
     "name": "Мариуполь, ул. Киевская 51",
+    "address": "Мариуполь, ул. Киевская 51",
     "operationTime": "неизвестно",
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -767,6 +774,7 @@
     ],
     "link": "https://ozon.ru/point/536835",
     "name": "Мариуполь, ул. Февральская 44а",
+    "address": "Мариуполь, ул. Февральская 44а",
     "operationTime": "неизвестно",
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -778,6 +786,7 @@
     ],
     "link": "https://ozon.ru/point/536831",
     "name": "Мариуполь, Казанцева 22а",
+    "address": "Мариуполь, Казанцева 22а",
     "operationTime": "неизвестно",
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"

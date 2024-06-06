@@ -1,8 +1,8 @@
 import fs from "node:fs/promises";
 import { asyncMap } from "modern-async";
-import { JSDOM } from "jsdom";
 import { getFinalURL } from "./utils.js";
 import ozonWbDpr from "./update/ozon-wb-dpr.js";
+import sevenDostavka from "./update/sevenDostavka.js";
 
 async function woyag() {
   const apiResponse = await fetch("https://login.woyag.ru/ajax/pvz-list");
@@ -40,52 +40,10 @@ async function woyag() {
   );
 }
 
-const linkRegexp = new RegExp(/https:\/\/ozon\.ru\/point\/\d+/);
-
-async function sevenDostavka() {
-  const res = await fetch("https://dostavka.7telecom.ru");
-  const htmlText = await res.text();
-
-  const dom = new JSDOM(htmlText);
-  const document = dom.window.document;
-  const scripts = document.querySelectorAll("script");
-
-  for (let script of scripts) {
-    if (script.textContent.includes("ДОБАВИТЬ ПУНКТ ВЫДАЧИ В ПРИЛОЖЕНИЕ")) {
-      let x = script.textContent.split("[\n{\n").pop().split("\n},\n]")[0];
-
-      if (x) {
-        const points = new Function(`return [{${x}}]`)();
-
-        fs.writeFile(
-          "data/99_sevenDostavka.json",
-          JSON.stringify(
-            {
-              name: "7dostavka",
-              source: "https://dostavka.7telecom.ru",
-              points: points.map((point) => ({
-                coordinates: [
-                  parseFloat(point["lng"]),
-                  parseFloat(point["lat"]),
-                ],
-                link: linkRegexp.exec(point.descr)[0],
-                name: point.title,
-                operationTime: "неизвестно",
-              })),
-            },
-            undefined,
-            4
-          )
-        );
-      }
-    }
-  }
-}
-
 async function main() {
-  await woyag();
+  // await woyag();
   await sevenDostavka();
-  await ozonWbDpr();
+  // await ozonWbDpr();
 }
 
 main();
