@@ -41,9 +41,9 @@ async function woyag() {
 }
 
 async function main() {
-  // await woyag();
+  await woyag();
   await sevenDostavka();
-  // await ozonWbDpr();
+  await ozonWbDpr();
 }
 
 main();
