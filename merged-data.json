@@ -5,7 +5,7 @@
       47.948376
     ],
     "name": "ПВЗ-03 Ляшенко",
-    "address": "Донецк-2, ул. Ляшенко 1а",
+    "address": "Донецк, Ляшенко 1а",
     "link": "https://ozon.ru/point/538097",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -17,7 +17,7 @@
       47.988652
     ],
     "name": "ПВЗ-08 Первомайская",
-    "address": "Донецк-6, ул. Первомайская",
+    "address": "Донецк, ул. Первомайская (АС Центр)",
     "link": "https://ozon.ru/point/538186",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -29,7 +29,7 @@
       48.006233
     ],
     "name": "ПВЗ-10 Театральный",
-    "address": "Донецк-7, ул. Университетская 26",
+    "address": "Донецк, ул. Университетская 26",
     "link": "https://ozon.ru/point/524639",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -41,7 +41,7 @@
       48.009223
     ],
     "name": "ПВЗ-11 Шевченко",
-    "address": "Донецк-8, бул. Шевченко 77",
+    "address": "Донецк, бул. Шевченко 77",
     "link": "https://ozon.ru/point/536833",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -65,7 +65,7 @@
       48.000825
     ],
     "name": "ПВЗ-14 Ильича",
-    "address": "Донецк-10, пр. Ильича 27",
+    "address": "Донецк, пр. Ильича 27",
     "link": "https://ozon.ru/point/538179",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -77,7 +77,7 @@
       47.9534
     ],
     "name": "ПВЗ-15 Боссе",
-    "address": "Донецк-11, ул. Речная 24б",
+    "address": "Донецк, ул. Речная 24б",
     "link": "https://ozon.ru/point/536838",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -113,7 +113,7 @@
       48.008645
     ],
     "name": "ПВЗ-21 Крытый",
-    "address": "Донецк-15, ул. 50-летия СССР 150",
+    "address": "Донецк, ул. 50-летия СССР 150",
     "link": "https://ozon.ru/point/533314",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -125,7 +125,7 @@
       47.99136
     ],
     "name": "ПВЗ-22 Независимости",
-    "address": "Донецк-16, ул. Независимости 16д",
+    "address": "Донецк, ул. Независимости 16д",
     "link": "https://ozon.ru/point/536826",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -137,7 +137,7 @@
       47.975167
     ],
     "name": "ПВЗ-23 Раздольная",
-    "address": "Донецк-17, ул. Раздольная 6",
+    "address": "Донецк, ул. Раздольная 6",
     "link": "https://ozon.ru/point/533348",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -149,7 +149,7 @@
       47.975021
     ],
     "name": "ПВЗ-24 Соловки",
-    "address": "Донецк-18, ул. Пилотная 28",
+    "address": "Донецк, ул. Пилотная 28",
     "link": "https://ozon.ru/point/536830",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -161,7 +161,7 @@
       48.098354
     ],
     "name": "ПВЗ-25 МК3 Черемушки",
-    "address": "Макеевка-3, квартал Северный 17",
+    "address": "Макеевка, квартал Северный 17",
     "link": "https://ozon.ru/point/534957",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -173,7 +173,7 @@
       48.008783
     ],
     "name": "ПВЗ-26 Шахтостроителей",
-    "address": "Донецк-19, бул. Шахтостроителей 20",
+    "address": "Донецк, бул. Шахтостроителей 20",
     "link": "https://ozon.ru/point/534949",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -185,7 +185,7 @@
       48.022137
     ],
     "name": "ПВЗ-27 Детский Мир",
-    "address": "Донецк-20, ул. Артема 147а",
+    "address": "Донецк, ул. Артема 147а",
     "link": "https://ozon.ru/point/536823",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -197,7 +197,7 @@
       47.991033
     ],
     "name": "ПВЗ-30 Постышева",
-    "address": "Донецк-23, ул. Постышева 43",
+    "address": "Донецк, ул. Постышева 43",
     "link": "https://ozon.ru/point/538183",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -209,7 +209,7 @@
       47.99713
     ],
     "name": "ПВЗ-33 Пирамида",
-    "address": "Донецк-25, ул. 50-летия СССР 100",
+    "address": "Донецк, ул. 50-летия СССР 100",
     "link": "https://ozon.ru/point/533329",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -221,7 +221,7 @@
       48.044231
     ],
     "name": "ПВЗ-34 Киевский",
-    "address": "Донецк-26, пр. Киевский 24",
+    "address": "Донецк, пр. Киевский 24",
     "link": "https://ozon.ru/point/538182",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -233,7 +233,7 @@
       48.028202
     ],
     "name": "ПВЗ-35 Топаз",
-    "address": "Донецк-27, ул. Куйбышева 169б",
+    "address": "Донецк, ул. Куйбышева 169б",
     "link": "https://ozon.ru/point/538096",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -245,7 +245,7 @@
       48.100112
     ],
     "name": "ПВЗ-36 МК-4 Даки",
-    "address": "Макеевка-4, ул. 50 лет Образования СССР 24а",
+    "address": "Макеевка, ул. 50 лет Образования СССР 24а",
     "link": "https://ozon.ru/point/538184",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -257,7 +257,7 @@
       48.034874
     ],
     "name": "ПВЗ-38 Волна",
-    "address": "Донецк-29, ул. Куйбышева 217Б",
+    "address": "Донецк, ул. Куйбышева 217Б",
     "link": "https://ozon.ru/point/533332",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -269,7 +269,7 @@
       47.970189
     ],
     "name": "ПВЗ-39 Семашко",
-    "address": "Донецк-30, ул. Коммунаров 38 (Семашко)",
+    "address": "Донецк, ул. Коммунаров 38",
     "link": "https://ozon.ru/point/535056",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -281,7 +281,7 @@
       47.945246
     ],
     "name": "ПВЗ-40 Островского20",
-    "address": "Донецк-31, ул. Островского 20 (Текстильщик)",
+    "address": "Донецк, ул. Островского 20",
     "link": "https://ozon.ru/point/533345",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -293,7 +293,7 @@
       48.004304
     ],
     "name": "ПВЗ-43 Гурова 22",
-    "address": "Донецк-34, пр. Гурова 22",
+    "address": "Донецк, пр. Гурова 22",
     "link": "https://ozon.ru/point/538094",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",
@@ -305,7 +305,7 @@
       47.95952
     ],
     "name": "ПВЗ-44 Кольцова15",
-    "address": "Донецк-35, ул. Кольцова 15",
+    "address": "Донецк, ул. Кольцова 15",
     "link": "https://ozon.ru/point/538095",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://login.woyag.ru/map",

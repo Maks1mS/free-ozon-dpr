@@ -19,7 +19,7 @@ async function woyag() {
     return {
       coordinates: [parseFloat(point["geo_lng"]), parseFloat(point["geo_lat"])],
       name: point.name,
-      address: point.fullname,
+      address: point.address,
       link,
       operationTime: "пн-вс с 9:00 до 17:45",
     };
