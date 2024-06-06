@@ -2,6 +2,7 @@ import fs from "node:fs/promises";
 import { asyncMap } from "modern-async";
 import { JSDOM } from "jsdom";
 import { getFinalURL } from "./utils.js";
+import ozonWbDpr from "./update/ozon-wb-dpr.js";
 
 async function woyag() {
   const apiResponse = await fetch("https://login.woyag.ru/ajax/pvz-list");
@@ -84,6 +85,7 @@ async function sevenDostavka() {
 async function main() {
   await woyag();
   await sevenDostavka();
+  await ozonWbDpr();
 }
 
 main();
