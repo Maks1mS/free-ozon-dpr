@@ -4,7 +4,7 @@ import map from "./map";
 
 import "./popup";
 
-import mergedData from "./merged-data.json";
+import mergedData from "../merged-data.json";
 import { createFeatures } from "./features";
 import VectorSource from "ol/source/Vector";
 import VectorLayer from "ol/layer/Vector";

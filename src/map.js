@@ -4,7 +4,7 @@ import View from 'ol/View';
 import TileLayer from 'ol/layer/Tile';
 import { fromLonLat } from 'ol/proj';
 import { XYZ } from 'ol/source';
-import { createXYZ } from 'ol/tilegrid';
+// import { createXYZ } from 'ol/tilegrid';
 
 const MAP_TARGET = 'map';
 const MAP_CENTER = fromLonLat([37.57725139554275, 48.02287702854201]);
