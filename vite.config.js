@@ -11,6 +11,15 @@ if (process.env.YANDEX_VERIFICATION) {
   })
 }
 
+const PUBLIC_URL = process.env.PUBLIC_URL || process.env.VERCEL_URL
+
+if (PUBLIC_URL) {
+  metas.push({
+    name: 'og:url',
+    content: 'https://' + PUBLIC_URL
+  })
+}
+
 
 export default {
   root: "src",
