@@ -2,6 +2,7 @@ import "./style.css";
 
 import map from "./map";
 
+import "./info-popup";
 import "./popup";
 
 import mergedData from "../merged-data.json";
