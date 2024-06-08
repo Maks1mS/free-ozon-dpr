@@ -4,7 +4,7 @@ import QRCode from "qrcode";
 import { el } from "./utils";
 import { toLonLat } from "ol/proj";
 
-const container = el("popup");
+const popup = el("popup");
 const closer = el("popup-closer");
 
 const popupName = el("popup-name");
@@ -15,7 +15,7 @@ const popupSource = el("popup-source");
 const popupOperationTime = el("popup-operation-time");
 
 const overlay = new Overlay({
-  element: container,
+  element: popup,
   autoPan: true,
   autoPanAnimation: {
     duration: 250,
