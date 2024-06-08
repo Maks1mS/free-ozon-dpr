@@ -1,6 +1,8 @@
 import fs from "node:fs/promises";
 import { JSDOM } from "jsdom";
 
+const OUTPUT_FILE = "data/99_sevenDostavka.json";
+
 const linkRegexp = new RegExp(/https:\/\/ozon\.ru\/point\/\d+/);
 
 async function sevenDostavka() {
@@ -19,7 +21,7 @@ async function sevenDostavka() {
         const points = new Function(`return [{${x}}]`)();
 
         fs.writeFile(
-          "data/99_sevenDostavka.json",
+          OUTPUT_FILE,
           JSON.stringify(
             {
               name: "7dostavka",

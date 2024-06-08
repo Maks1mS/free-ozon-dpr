@@ -4,6 +4,8 @@ import { JSDOM } from "jsdom";
 import { asyncMap } from "modern-async";
 import fs from "node:fs/promises";
 
+const OUTPUT_FILE = "data/03_ozon-wb-dpr.json";
+
 const MAIN_URL = "https://t.me/ozon_wb_dpr/627";
 
 const QR_FOR_PVZ_STRING = "QR для ПВЗ";
@@ -108,7 +110,7 @@ async function ozonWbDpr() {
   });
 
   await fs.writeFile(
-    "data/03_ozon-wb-dpr.json",
+    OUTPUT_FILE,
     JSON.stringify(
       {
         name: "ПВЗ ДНР",

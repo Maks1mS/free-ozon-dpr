@@ -1,66 +1,66 @@
 {
     "name": "Global Express",
-    "source": "https://t.me/Mariupol_global_express/1989",
+    "source": "https://t.me/Mariupol_global_express/1977",
     "points": [
-        {
-            "coordinates": [
-                37.775896,
-                47.959707
-            ],
-            "name": "Донецк 7 (микр-н Звездный)",
-            "link": "https://ozon.ru/point/534953",
-            "address": "Донецк, пр-кт Ленинский 98А",
-            "operationTime": "пн-вс с 9:00 до 17:00"
-        },
         {
             "coordinates": [
                 37.811995,
                 48.011767
             ],
-            "name": "Донецк 8 (Крытый рынок)",
             "link": "https://ozon.ru/point/533323",
-            "address": "Донецк, ул. 50-летия СССР 157А",
-            "operationTime": "пн-пт с 9:00 до 17:00"
+            "name": "г. Донецк, ул. 50-летия СССР, 157А",
+            "address": "г. Донецк, ул. 50-летия СССР, 157А",
+            "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>"
         },
         {
             "coordinates": [
                 37.799192,
                 47.991666
             ],
-            "name": "Донецк 1 (Южный)",
             "link": "https://ozon.ru/point/533347",
-            "address": "Донецк, площадь Коммунаров 1к1, ТЦ «Южный»",
-            "operationTime": "пн-пт с 9:00 до 17:00, сб-вс с 10:00 ло 17:00"
+            "name": "г. Донецк, площадь Коммунаров 1к1, ТЦ «Южный»",
+            "address": "г. Донецк, площадь Коммунаров 1к1, ТЦ «Южный»",
+            "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>"
+        },
+        {
+            "coordinates": [
+                37.775896,
+                47.959707
+            ],
+            "link": "https://ozon.ru/point/534953",
+            "name": "г. Донецк, пр - кт Ленинский, 98Аостановка «Звездный»",
+            "address": "г. Донецк, пр - кт Ленинский, 98Аостановка «Звездный»",
+            "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>"
         },
         {
             "coordinates": [
                 38.635921,
                 48.047327
             ],
-            "name": "Торез 3",
             "link": "https://ozon.ru/point/533350",
+            "name": "г. Торез, 4й микрорайон, (торговые павильоны в районе дома 23)",
             "address": "г. Торез, 4й микрорайон, (торговые павильоны в районе дома 23)",
-            "operationTime": "пн-вс с 9:00 до 17:00"
+            "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>"
         },
         {
             "coordinates": [
                 38.761523,
                 48.021133
             ],
-            "name": "Снежное",
             "link": "https://ozon.ru/point/534920",
+            "name": "Снежное, ул. Дзержинского, 2",
             "address": "Снежное, ул. Дзержинского, 2",
-            "operationTime": "пн-вс с 9:00 до 17:00"
+            "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>"
         },
         {
             "coordinates": [
                 38.208714,
                 48.221055
             ],
-            "name": "Енакиево",
             "link": "https://ozon.ru/point/534903",
+            "name": "Енакиево, проспект Ленина, 98в",
             "address": "Енакиево, проспект Ленина, 98в",
-            "operationTime": "пн-вс с 9:00 до 17:00"
+            "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>"
         }
     ]
 }

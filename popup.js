@@ -46,7 +46,7 @@ function onClick(event) {
   popupAddress.href = `https://yandex.ru/maps/?whatshere[point]=${lon},${lat}&whatshere[zoom]=18&l=map`
   popupLink.href = feature.get("link");
   popupSource.href = feature.get("source");
-  popupOperationTime.textContent = feature.get("operationTime") ?? "неизвестно";
+  popupOperationTime.innerHTML = feature.get("operationTime") ?? "неизвестно";
 
   QRCode.toCanvas(popupCanvas, feature.get("link"), function (error) {
     if (error) console.error(error);
