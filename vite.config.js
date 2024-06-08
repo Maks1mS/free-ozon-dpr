@@ -11,7 +11,7 @@ if (process.env.YANDEX_VERIFICATION) {
   })
 }
 
-const PUBLIC_URL = process.env.PUBLIC_URL || process.env.VERCEL_URL
+const PUBLIC_URL = process.env.PUBLIC_URL || process.env.VERCEL_PROJECT_PRODUCTION_URL
 
 if (PUBLIC_URL) {
   metas.push({
