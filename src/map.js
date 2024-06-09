@@ -12,8 +12,10 @@ const MAP_ZOOM = 8.5;
 
 const customTileSource = new TileLayer({
     source: new XYZ({
-        // url: 'https://tile-server.ozon.ru/tile/default/{z}/{x}/{y}.png'
-
+        attributionsCollapsible: false,
+        attributions: [
+            '&#169; <a href="https://wikimapia.org/">Wikimapia</a>'
+        ],
         tileUrlFunction: ([z, x, y]) => {
             const s = x % 4 + (y % 4) * 4
             return `https://i${s}.wikimapia.org/?x=${x}&y=${y}&zoom=${z}&type=map&lng=1`

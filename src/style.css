@@ -69,5 +69,10 @@ body {
 }
 
 #popup-operation-time {
-  white-space: pre-line
+  white-space: pre-line;
+}
+
+.ol-attribution a:hover {
+  color: var(--ol-brand-color);
+  text-decoration: underline;
 }
