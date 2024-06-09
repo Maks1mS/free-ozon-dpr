@@ -76,3 +76,5 @@ body {
   color: var(--ol-brand-color);
   text-decoration: underline;
 }
+
+.info-popup-content > p { text-align:justify; }
