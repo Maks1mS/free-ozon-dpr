@@ -78,3 +78,8 @@ body {
 }
 
 .info-popup-content > p { text-align:justify; }
+
+.info-button {
+  top: 5em;
+  left: .5em;
+}
