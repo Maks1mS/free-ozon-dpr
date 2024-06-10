@@ -802,5 +802,89 @@
     "operationTime": "неизвестно",
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
+  },
+  {
+    "coordinates": [
+      36.792245,
+      46.755007
+    ],
+    "link": "https://ozon.ru/point/538187",
+    "name": "г. Бердянск проспект Победы 11 б",
+    "address": "г. Бердянск проспект Победы 11 б",
+    "operationTime": "неизвестно",
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "coordinates": [
+      38.48274,
+      48.043203
+    ],
+    "link": "https://ozon.ru/point/538091",
+    "name": "г. Шахтёрск, улица Крупская,1( района автовокзала)",
+    "address": "г. Шахтёрск, улица Крупская,1( района автовокзала)",
+    "operationTime": "неизвестно",
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "coordinates": [
+      38.144865,
+      48.037727
+    ],
+    "link": "https://ozon.ru/point/538092",
+    "name": "г.Харцызск, ул.Вокзальная, 67",
+    "address": "г.Харцызск, ул.Вокзальная, 67",
+    "operationTime": "неизвестно",
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "coordinates": [
+      38.150597,
+      48.042505
+    ],
+    "link": "https://ozon.ru/point/538093",
+    "name": "г.Харцызск, ул.Первомайская,1а",
+    "address": "г.Харцызск, ул.Первомайская,1а",
+    "operationTime": "неизвестно",
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "coordinates": [
+      37.806057,
+      47.958853
+    ],
+    "link": "https://ozon.ru/point/538181",
+    "name": "г. Донецк, Куприна 3а",
+    "address": "г. Донецк, Куприна 3а",
+    "operationTime": "неизвестно",
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "coordinates": [
+      37.849239,
+      48.009934
+    ],
+    "link": "https://ozon.ru/point/538177",
+    "name": "г. Донецк, бул. Шевченко 66",
+    "address": "г. Донецк, бул. Шевченко 66",
+    "operationTime": "неизвестно",
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "coordinates": [
+      37.995841,
+      47.413247
+    ],
+    "link": "https://ozon.ru/point/538178",
+    "name": "пгт. Тельманово ул. Ленина 251",
+    "address": "пгт. Тельманово ул. Ленина 251",
+    "operationTime": "неизвестно",
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
   }
 ]
