@@ -22,7 +22,7 @@ async function woyag() {
       name: point.name,
       address: point.address,
       link,
-      operationTime: "пн-вс с 9:00 до 17:45",
+      operationTime: "пн-вс с 9:00 до 18:00",
     };
   });
 
