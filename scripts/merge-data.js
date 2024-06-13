@@ -1,6 +1,7 @@
 import fs from "node:fs/promises";
 import { asyncMap } from "modern-async";
 import { getDistance } from "ol/sphere.js";
+import { extractIDFromURL } from "./utils.js";
 
 function removeDuplicatesByUrl(points) {
   const uniquePoints = [];
@@ -64,6 +65,12 @@ async function main() {
   data = data.flatMap((v) => v);
   data = removeDuplicatesByUrl(data);
   data = removeDuplicatesByRadius(data, 10);
+
+  // pick all except url
+  data = data.map(x => {
+    const { link, ...rest } = x;
+    return { id: extractIDFromURL(link), ...rest };
+  });
   await fs.writeFile("merged-data.json", JSON.stringify(data, undefined, 2));
 }
 

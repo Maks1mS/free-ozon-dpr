@@ -22,7 +22,7 @@ function createFeatures(places) {
       geometry: new Point(fromLonLat(place.coordinates)),
       name: `[${place.provider}] ${place.name}`,
       address: place.address,
-      link: place.link,
+      id: place.id,
       source: place.source,
       operationTime: place.operationTime,
     });

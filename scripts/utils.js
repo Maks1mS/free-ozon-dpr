@@ -63,3 +63,15 @@ export async function getTelegramMessage(input) {
       .innerHTML,
   };
 }
+
+/**
+ * Извлекает идентификатор пункта выдачи OZON из ссылки
+ * @param {string} url 
+ */
+export function extractIDFromURL(url) {
+  const match = url.match(/https:\/\/ozon\.ru\/point\/([0-9]+)/);
+  if (match) {
+    return match[1];
+  }
+  return null;
+}

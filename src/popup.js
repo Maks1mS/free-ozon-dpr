@@ -10,9 +10,11 @@ const closer = el("popup-closer");
 const popupName = el("popup-name");
 const popupAddress = el("popup-address");
 const popupLink = el("popup-link");
+const popupPVZId = el("popup-pvz-id");
 const popupCanvas = el("popup-canvas");
 const popupSource = el("popup-source");
 const popupOperationTime = el("popup-operation-time");
+
 
 const overlay = new Overlay({
   element: popup,
@@ -41,16 +43,21 @@ function onClick(event) {
 
   const [lon, lat] = toLonLat(coordinates);
 
+
+  const pvzId = feature.get("id");
+
+  const link = `https://ozon.ru/point/${pvzId}`;
+
   popupName.textContent = feature.get("name");
   popupAddress.textContent = feature.get("address");
-  popupAddress.href = `https://yandex.ru/maps/?whatshere[point]=${lon},${lat}&whatshere[zoom]=18&l=map`
-  popupLink.href = feature.get("link");
+  popupAddress.href = `https://yandex.ru/maps/?whatshere[point]=${lon},${lat}&whatshere[zoom]=18&l=map`;
+  popupLink.href = link;
   popupSource.href = feature.get("source");
   popupOperationTime.innerHTML = feature.get("operationTime") ?? "неизвестно";
+  popupPVZId.innerText = pvzId;
 
-  QRCode.toCanvas(popupCanvas, feature.get("link"), function (error) {
+  QRCode.toCanvas(popupCanvas, link, function (error) {
     if (error) console.error(error);
-    console.log("success!");
   });
 
   overlay.setPosition(coordinates);
