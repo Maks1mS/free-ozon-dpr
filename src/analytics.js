@@ -22,7 +22,7 @@ document.addEventListener("DOMContentLoaded", function () {
     });
 
     sourceLink.addEventListener("click", function  ()  {
-        Analytics.event("pvz-link-clicked", pvzData);
+        Analytics.event("pvz-source-clicked", pvzData);
     });
 
     infoPopupButton.addEventListener("click", function  () {
