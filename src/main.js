@@ -4,6 +4,7 @@ import map from "./map";
 
 import "./info-popup";
 import "./popup";
+import "./analytics";
 
 import mergedData from "../merged-data.json";
 import { createFeatures } from "./features";
