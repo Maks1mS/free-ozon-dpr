@@ -3,6 +3,7 @@ import fs from "node:fs/promises";
 import { JSDOM } from "jsdom";
 import { asyncMap } from "modern-async";
 import { getTelegramMessage } from "../utils.js";
+import { collapseWhiteSpace } from "collapse-white-space";
 
 const OUTPUT_FILE = "data/02_global-express.json";
 const MAIN_URL = "https://t.me/Mariupol_global_express/1977";
@@ -127,8 +128,9 @@ async function getFromTelegram() {
   }
 
   const data = await asyncMap(links, async (link) => {
-    const textContent = link.textContent;
-
+    const textContent = collapseWhiteSpace(
+      link.innerHTML.replace(/<br\s*\/?>/gi, " ")
+    );
     const pvzData = await getPVZFromPost(link.href);
 
     return {
@@ -177,8 +179,7 @@ async function globalExpress() {
         source: MAIN_URL,
         points: points.map((p) => ({
           ...p,
-          operationTime:
-            `<a href="https://vk.com/aliexpress___delivery?w=address-124759560_72654">ГРАФИК РАБОТЫ</a>`,
+          operationTime: `<a href="https://vk.com/aliexpress___delivery?w=address-124759560_72654">ГРАФИК РАБОТЫ</a>`,
         })),
       },
       undefined,
