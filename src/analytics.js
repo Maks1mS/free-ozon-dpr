@@ -11,17 +11,18 @@ class Analytics {
 
 document.addEventListener("DOMContentLoaded", function () {
     const popupPVZId = el("popup-pvz-id");
-    const pvzData = { pvz: popupPVZId.innerText };
 
     const popupLink = el("popup-link");
     const sourceLink = el("popup-source");
     const infoPopupButton = el("info-popup-button");
 
     popupLink.addEventListener("click", function  ()  {
+        const pvzData = { pvz: popupPVZId.innerText };
         Analytics.event("pvz-link-clicked", pvzData);
     });
 
     sourceLink.addEventListener("click", function  ()  {
+        const pvzData = { pvz: popupPVZId.innerText };
         Analytics.event("pvz-source-clicked", pvzData);
     });
 
