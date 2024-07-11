@@ -6,10 +6,10 @@ import {
 } from './update/index.js';
 
 async function main() {
-  await woyag();
+  // await woyag();
   await sevenDostavka();
-  await ozonWbDpr();
-  await globalExpress();
+  // await ozonWbDpr();
+  // await globalExpress();
 }
 
 main();
