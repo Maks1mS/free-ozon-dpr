@@ -1,13 +1,13 @@
 import { 
   woyag, 
-  sevenDostavka,
+  // sevenDostavka,
   ozonWbDpr,
   globalExpress
 } from './update/index.js';
 
 async function main() {
   await woyag();
-  await sevenDostavka();
+  // - await sevenDostavka();
   await ozonWbDpr();
   await globalExpress();
 }

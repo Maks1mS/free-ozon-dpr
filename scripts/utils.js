@@ -46,6 +46,7 @@ export async function getFinalURL(url) {
 }
 
 export async function getTelegramMessage(input) {
+  console.log(input);
   const url = new URL(input);
 
   url.search = "?embed=1&mode=tme";

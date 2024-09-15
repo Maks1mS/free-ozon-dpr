@@ -1,5 +1,17 @@
 [
   {
+    "id": "620808",
+    "coordinates": [
+      37.804049,
+      47.993063
+    ],
+    "name": "ПВЗ-01 Планета",
+    "address": "Донецк, ул. Артема 50а",
+    "operationTime": "пн-вс с 9:00 до 18:00",
+    "source": "https://login.woyag.ru/map",
+    "provider": "WOЯЖ"
+  },
+  {
     "id": "538097",
     "coordinates": [
       37.689712,
@@ -103,6 +115,18 @@
     ],
     "name": "ПВЗ-17 Зугрэс",
     "address": "Зугрэс, ул. Рыночная 1",
+    "operationTime": "пн-вс с 9:00 до 18:00",
+    "source": "https://login.woyag.ru/map",
+    "provider": "WOЯЖ"
+  },
+  {
+    "id": "620821",
+    "coordinates": [
+      37.799398,
+      47.992543
+    ],
+    "name": "ПВЗ-20 Пассаж",
+    "address": "Донецк, пл. Коммунаров 1",
     "operationTime": "пн-вс с 9:00 до 18:00",
     "source": "https://login.woyag.ru/map",
     "provider": "WOЯЖ"
@@ -216,6 +240,18 @@
     "provider": "WOЯЖ"
   },
   {
+    "id": "620816",
+    "coordinates": [
+      37.858368,
+      48.003342
+    ],
+    "name": "ПВЗ-32 Макаронка",
+    "address": "Донецк, пр. Ильича 84",
+    "operationTime": "пн-вс с 9:00 до 18:00",
+    "source": "https://login.woyag.ru/map",
+    "provider": "WOЯЖ"
+  },
+  {
     "id": "533329",
     "coordinates": [
       37.811583,
@@ -324,6 +360,66 @@
     "provider": "WOЯЖ"
   },
   {
+    "id": "549337",
+    "coordinates": [
+      37.800047,
+      48.001798
+    ],
+    "name": "ПВЗ-45 Гринкевича 9",
+    "address": "Донецк, пр. Гринкевича 9",
+    "operationTime": "пн-вс с 9:00 до 18:00",
+    "source": "https://login.woyag.ru/map",
+    "provider": "WOЯЖ"
+  },
+  {
+    "id": "620819",
+    "coordinates": [
+      37.91487,
+      47.974376
+    ],
+    "name": "ПВЗ-47 Раздольная 34б (Юта)",
+    "address": "Донецк, ул. Раздольная 34б",
+    "operationTime": "пн-вс с 9:00 до 18:00",
+    "source": "https://login.woyag.ru/map",
+    "provider": "WOЯЖ"
+  },
+  {
+    "id": "622517",
+    "coordinates": [
+      37.859927,
+      48.036184
+    ],
+    "name": "ПВЗ-48 МК-5 Кронштадская 69",
+    "address": "Макеевка, ул. Кронштадтская 69",
+    "operationTime": "пн-вс с 9:00 до 18:00",
+    "source": "https://login.woyag.ru/map",
+    "provider": "WOЯЖ"
+  },
+  {
+    "id": "622515",
+    "coordinates": [
+      37.983099,
+      48.015676
+    ],
+    "name": "ПВЗ-49 МК-6 Репина 26",
+    "address": "Макеевка, ул. Репина 26",
+    "operationTime": "пн-вс с 9:00 до 18:00",
+    "source": "https://login.woyag.ru/map",
+    "provider": "WOЯЖ"
+  },
+  {
+    "id": "538177",
+    "coordinates": [
+      37.849239,
+      48.009934
+    ],
+    "name": "г. Донецк Калининский рынок (рядом с гостиницей Нива) бульвар Шевченко, 66",
+    "address": "г. Донецк Калининский рынок (рядом с гостиницей Нива) бульвар Шевченко, 66",
+    "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>",
+    "source": "https://t.me/global_express_dnr/784",
+    "provider": "Global Express"
+  },
+  {
     "id": "533323",
     "coordinates": [
       37.811995,
@@ -332,7 +428,7 @@
     "name": "г. Донецк, ул. 50-летия СССР, 157А",
     "address": "г. Донецк, ул. 50-летия СССР, 157А",
     "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>",
-    "source": "https://t.me/Mariupol_global_express/1977",
+    "source": "https://t.me/global_express_dnr/784",
     "provider": "Global Express"
   },
   {
@@ -341,10 +437,10 @@
       37.799192,
       47.991666
     ],
-    "name": "г. Донецк, площадь Коммунаров 1к1, ТЦ «Южный»",
-    "address": "г. Донецк, площадь Коммунаров 1к1, ТЦ «Южный»",
+    "name": " г. Донецк, площадь Коммунаров 1к1, ТЦ «Южный» ",
+    "address": " г. Донецк, площадь Коммунаров 1к1, ТЦ «Южный» ",
     "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>",
-    "source": "https://t.me/Mariupol_global_express/1977",
+    "source": "https://t.me/global_express_dnr/784",
     "provider": "Global Express"
   },
   {
@@ -356,7 +452,7 @@
     "name": "г. Донецк, пр - кт Ленинский, 98А остановка «Звездный»",
     "address": "г. Донецк, пр - кт Ленинский, 98А остановка «Звездный»",
     "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>",
-    "source": "https://t.me/Mariupol_global_express/1977",
+    "source": "https://t.me/global_express_dnr/784",
     "provider": "Global Express"
   },
   {
@@ -368,7 +464,7 @@
     "name": "г. Торез, 4й микрорайон, (торговые павильоны в районе дома 23)",
     "address": "г. Торез, 4й микрорайон, (торговые павильоны в районе дома 23)",
     "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>",
-    "source": "https://t.me/Mariupol_global_express/1977",
+    "source": "https://t.me/global_express_dnr/784",
     "provider": "Global Express"
   },
   {
@@ -377,10 +473,10 @@
       38.761523,
       48.021133
     ],
-    "name": "Снежное, ул. Дзержинского, 2",
-    "address": "Снежное, ул. Дзержинского, 2",
+    "name": "Снежное, ул. Дзержинского, 2 ",
+    "address": "Снежное, ул. Дзержинского, 2 ",
     "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>",
-    "source": "https://t.me/Mariupol_global_express/1977",
+    "source": "https://t.me/global_express_dnr/784",
     "provider": "Global Express"
   },
   {
@@ -389,10 +485,10 @@
       38.208714,
       48.221055
     ],
-    "name": "Енакиево, проспект Ленина, 98в",
-    "address": "Енакиево, проспект Ленина, 98в",
+    "name": "Енакиево, проспект Ленина, 98 ",
+    "address": "Енакиево, проспект Ленина, 98 ",
     "operationTime": "<a href=\"https://vk.com/aliexpress___delivery?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>",
-    "source": "https://t.me/Mariupol_global_express/1977",
+    "source": "https://t.me/global_express_dnr/784",
     "provider": "Global Express"
   },
   {
@@ -401,8 +497,8 @@
       37.845475,
       47.994778
     ],
-    "name": "ПВЗ г. Донецк, ул. Харитонова, 3",
-    "address": "г. Донецк, ул. Харитонова, 3",
+    "name": "ПВЗ г. Донецк, ул. Харитонова, 3а",
+    "address": "г. Донецк, ул. Харитонова, 3а",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://t.me/ozon_wb_dpr/627",
     "provider": "ПВЗ ДНР"
@@ -506,11 +602,11 @@
   {
     "id": "517059",
     "coordinates": [
-      37.807934,
-      48.014371
+      37.807755,
+      48.016661
     ],
-    "name": "ПВЗ г. Донецк, ул. Челюскинцев, 167",
-    "address": "г. Донецк, ул. Челюскинцев, 167",
+    "name": "ПВЗ г. Донецк, пр-кт Мира, 13",
+    "address": "г. Донецк, пр-кт Мира, 13",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://t.me/ozon_wb_dpr/627",
     "provider": "ПВЗ ДНР"
@@ -595,6 +691,54 @@
     ],
     "name": "ПВЗ г. Донецк, б-р Шевченко, 129",
     "address": "г. Донецк, б-р Шевченко, 129",
+    "operationTime": "пн-вс с 9:00 до 17:45",
+    "source": "https://t.me/ozon_wb_dpr/627",
+    "provider": "ПВЗ ДНР"
+  },
+  {
+    "id": "549338",
+    "coordinates": [
+      37.799239,
+      47.987542
+    ],
+    "name": "ПВЗ г. Донецк, ул. Первомайская, 19",
+    "address": "г. Донецк, ул. Первомайская, 19",
+    "operationTime": "пн-вс с 9:00 до 17:45",
+    "source": "https://t.me/ozon_wb_dpr/627",
+    "provider": "ПВЗ ДНР"
+  },
+  {
+    "id": "565085",
+    "coordinates": [
+      37.769091,
+      48.007909
+    ],
+    "name": "ПВЗ г. Донецк, пр-кт Панфилова, 118",
+    "address": "г. Донецк, пр-кт Панфилова, 118",
+    "operationTime": "пн-вс с 9:00 до 17:45",
+    "source": "https://t.me/ozon_wb_dpr/627",
+    "provider": "ПВЗ ДНР"
+  },
+  {
+    "id": "549324",
+    "coordinates": [
+      37.82926,
+      48.008801
+    ],
+    "name": "ПВЗ г. Донецк, б-р Шевченко, 27",
+    "address": "г. Донецк, б-р Шевченко, 27",
+    "operationTime": "пн-вс с 9:00 до 17:45",
+    "source": "https://t.me/ozon_wb_dpr/627",
+    "provider": "ПВЗ ДНР"
+  },
+  {
+    "id": "565090",
+    "coordinates": [
+      37.801502,
+      47.97817
+    ],
+    "name": "ПВЗ г. Донецк, ул. И. Ткаченко, 121а",
+    "address": "г. Донецк, ул. И. Ткаченко, 121а",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://t.me/ozon_wb_dpr/627",
     "provider": "ПВЗ ДНР"
@@ -696,13 +840,313 @@
     "provider": "PVZ | Пункт выдачи заказов"
   },
   {
+    "id": "565080",
+    "name": "Геническ. Проспект Мира 87",
+    "address": "Геническ. Проспект Мира 87",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      34.81339100000001,
+      46.173364000016186
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "569383",
+    "name": "Луганск, улица Чапаева 59А",
+    "address": "Луганск, улица Чапаева 59А",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      39.276185999999996,
+      48.56419600000922
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "569386",
+    "name": "Макеевка, ул. Кольцевая 25-1",
+    "address": "Макеевка, ул. Кольцевая 25-1",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.90899500000002,
+      48.069648000010616
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "569389",
+    "name": "Мелитополь, ул. Красноармейская, 3",
+    "address": "Мелитополь, ул. Красноармейская, 3",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      35.367238999999984,
+      46.83361800001425
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "569378",
+    "name": "Приазовское, Горького, 99",
+    "address": "Приазовское, Горького, 99",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      35.64319199999999,
+      46.730521000014534
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "569380",
+    "name": "Торез, ул. Ленина 277",
+    "address": "Торез, ул. Ленина 277",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      38.668673000000005,
+      48.01162200001083
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "565133",
+    "name": "Мариуполь, ул. Приазовская 47",
+    "address": "Мариуполь, ул. Приазовская 47",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.61233499999998,
+      47.159918000013285
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "549331",
+    "name": "Горловка, Минская 61",
+    "address": "Горловка, Минская 61",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      38.026089999999996,
+      48.32483400000991
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "549325",
+    "name": "Донецк, Аристова 20",
+    "address": "Донецк, Аристова 20",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.780166999999956,
+      48.059351000010636
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "549315",
+    "name": "Луганск, Ватутина 18",
+    "address": "Луганск, Ватутина 18",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      39.382025,
+      48.56760100000921
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "549252",
+    "name": "Луганск, Оборонная 18",
+    "address": "Луганск, Оборонная 18",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      39.325404,
+      48.55289600000921
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "547803",
+    "name": "с. Азовское ул. Центральная 95 а",
+    "address": "с. Азовское ул. Центральная 95 а",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      36.677755000000005,
+      46.80266100001437
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "547815",
+    "name": "Донецк, улица Газеты Комсомолец Донбасса 21",
+    "address": "Донецк, улица Газеты Комсомолец Донбасса 21",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.73909599999998,
+      47.96159800001094
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "547809",
+    "name": "Донецк, ул Петровского 231 Б ",
+    "address": "Донецк, ул Петровского 231 Б ",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.61074499999998,
+      47.94466500001099
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "547816",
+    "name": "Донецк, пр. Дзержинского, д. 69Б",
+    "address": "Донецк, пр. Дзержинского, д. 69Б",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.839132999999975,
+      47.99781700001085
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "547819",
+    "name": "Горловка, ул. Нестерова 117",
+    "address": "Горловка, ул. Нестерова 117",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      38.01240899999997,
+      48.29341500000999
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "547801",
+    "name": "Бердянск Ул Университетская 16",
+    "address": "Бердянск Ул Университетская 16",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      36.78796,
+      46.754673000014485
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "544415",
+    "name": "Мариуполь Ул.Седьмой проезд 8а",
+    "address": "Мариуполь Ул.Седьмой проезд 8а",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.56359299999999,
+      47.11575900001343
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "544431",
+    "name": "Мариуполь Пос.Сартана ул.Партизанская 25",
+    "address": "Мариуполь Пос.Сартана ул.Партизанская 25",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.693686999999976,
+      47.17424700001324
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "544417",
+    "name": "г.Мелитополь Ул. Кирова, 501, ТЦ Феникс, 1",
+    "address": "г.Мелитополь Ул. Кирова, 501, ТЦ Феникс, 1",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      35.360189899999995,
+      46.84389940001421
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "544427",
+    "name": "г.Мелитополь Ул. Ивана Алексеева, 10А",
+    "address": "г.Мелитополь Ул. Ивана Алексеева, 10А",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      35.36331299999996,
+      46.83944400001422
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "544430",
+    "name": "г.Мелитополь 50 лет Победы, 29",
+    "address": "г.Мелитополь 50 лет Победы, 29",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      35.38030899999998,
+      46.86333700001417
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "544421",
+    "name": "Волноваха, Ленина 145",
+    "address": "Волноваха, Ленина 145",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.49022699999999,
+      47.615835000011934
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "544418",
+    "name": "Луганск Победоносная 15 А",
+    "address": "Луганск Победоносная 15 А",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      39.272242000000006,
+      48.53061700000929
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "545540",
+    "name": "Луганск, Волкова 2 А",
+    "address": "Луганск, Волкова 2 А",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      39.39604799999999,
+      48.56703400000923
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
     "id": "543418",
     "name": "Приморск, Дружбы 15 Б",
     "address": "Приморск, Дружбы 15 Б",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.61437641406249,
-      47.55785745152738
+      36.34751599999999,
+      46.73538800001456
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -737,7 +1181,7 @@
     "address": "Луганск, ул. Демехина,23",
     "operationTime": "неизвестно",
     "coordinates": [
-      39.30424,
+      39.304240000000014,
       48.571625000009206
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -749,7 +1193,7 @@
     "address": "Бердянск, Волонтеров 49Б",
     "operationTime": "неизвестно",
     "coordinates": [
-      36.77874400000002,
+      36.778744000000025,
       46.773365000014415
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -761,7 +1205,7 @@
     "address": "Мелитополь, ул.Гагарина,3",
     "operationTime": "неизвестно",
     "coordinates": [
-      35.33892399999997,
+      35.338923999999956,
       46.859837000014174
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -773,7 +1217,7 @@
     "address": "Енакиево, ул. Айвазовского 68",
     "operationTime": "неизвестно",
     "coordinates": [
-      38.20606800000002,
+      38.20606800000001,
       48.26517900001007
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -785,8 +1229,8 @@
     "address": "Горловка, ул. Болотникова 29а",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.96999900000003,
-      48.33809600000985
+      37.96999900000002,
+      48.338096000009855
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -797,8 +1241,8 @@
     "address": "Горловка, проспект Победы 67г",
     "operationTime": "неизвестно",
     "coordinates": [
-      38.00282399999999,
-      48.30662500000998
+      38.00282399999998,
+      48.30662500000999
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -809,8 +1253,8 @@
     "address": " Мариуполь, пер. Днепропетровский 11",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.51161599999998,
-      47.07902600001352
+      37.51161599999999,
+      47.07902600001351
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -822,7 +1266,7 @@
     "operationTime": "неизвестно",
     "coordinates": [
       36.35656199999998,
-      46.72988500001454
+      46.72988500001456
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -833,7 +1277,7 @@
     "address": "Мариуполь ул. кронштадтская 14",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.51307999999998,
+      37.51307999999997,
       47.081125000013536
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -858,7 +1302,7 @@
     "operationTime": "неизвестно",
     "coordinates": [
       37.785782000000026,
-      48.032178000010745
+      48.032178000010774
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -869,7 +1313,7 @@
     "address": "Донецк Шевченко д.42Б",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.83548599999997,
+      37.835485999999996,
       48.00956700001083
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -882,7 +1326,7 @@
     "operationTime": "неизвестно",
     "coordinates": [
       37.74767000000001,
-      48.042496000010736
+      48.04249600001074
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -893,7 +1337,7 @@
     "address": "Донецк Багратиона 43",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.902734000000024,
+      37.902733999999995,
       47.99246900001087
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -905,7 +1349,7 @@
     "address": "г.Кировское, Ул.Чапаева,7",
     "operationTime": "неизвестно",
     "coordinates": [
-      38.35573599999998,
+      38.35573599999997,
       48.14458900001044
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -917,7 +1361,7 @@
     "address": "г.Шахтерск мкн Журавлёва дом 451",
     "operationTime": "неизвестно",
     "coordinates": [
-      38.48208399999997,
+      38.48208399999998,
       48.04162500001073
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -941,8 +1385,8 @@
     "address": "Бердянск, Восточный проспект, 119",
     "operationTime": "неизвестно",
     "coordinates": [
-      36.803222999999996,
-      46.75032000001454
+      36.80322300000001,
+      46.75032000001451
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -954,7 +1398,7 @@
     "operationTime": "неизвестно",
     "coordinates": [
       37.799733,
-      48.01689000001076
+      48.016890000010775
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -966,7 +1410,7 @@
     "operationTime": "неизвестно",
     "coordinates": [
       38.40033699999998,
-      48.08799600001057
+      48.08799600001056
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -978,19 +1422,7 @@
     "operationTime": "неизвестно",
     "coordinates": [
       37.995841000000006,
-      47.413247000012554
-    ],
-    "source": "https://dostavka.7telecom.ru",
-    "provider": "7dostavka"
-  },
-  {
-    "id": "538177",
-    "name": "г. Донецк, бул. Шевченко 66",
-    "address": "г. Донецк, бул. Шевченко 66",
-    "operationTime": "неизвестно",
-    "coordinates": [
-      37.84923900000002,
-      48.00993400001082
+      47.41324700001253
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -1013,8 +1445,8 @@
     "address": "г.Харцызск, ул.Первомайская,1а",
     "operationTime": "неизвестно",
     "coordinates": [
-      38.15059700000002,
-      48.04250500001069
+      38.15059700000001,
+      48.04250500001073
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -1025,8 +1457,8 @@
     "address": "г.Харцызск, ул.Вокзальная, 67",
     "operationTime": "неизвестно",
     "coordinates": [
-      38.144865,
-      48.037727000010726
+      38.144864999999996,
+      48.03772700001077
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -1037,8 +1469,8 @@
     "address": "г. Шахтёрск, улица Крупская,1( района автовокзала)",
     "operationTime": "неизвестно",
     "coordinates": [
-      38.482739999999986,
-      48.04320300001071
+      38.48273999999997,
+      48.04320300001073
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -1049,7 +1481,7 @@
     "address": "г. Бердянск проспект Победы 11 б",
     "operationTime": "неизвестно",
     "coordinates": [
-      36.79224499999998,
+      36.79224499999999,
       46.755007000014494
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -1073,7 +1505,7 @@
     "address": "Мариуполь, ул. Февральская 44а",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.67508299999998,
+      37.67508299999997,
       47.11328200001342
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -1085,8 +1517,8 @@
     "address": "Мариуполь, ул. Киевская 51",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.68774899999999,
-      47.12512200001339
+      37.687749,
+      47.12512200001338
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -1097,8 +1529,8 @@
     "address": "Мариуполь, пр. Победы 89",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.654260000000015,
-      47.10607500001346
+      37.65426000000001,
+      47.106075000013455
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -1109,7 +1541,7 @@
     "address": "Мариуполь, пр. Металлургов 227",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.56745500000001,
+      37.56745500000004,
       47.135140000013344
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -1121,7 +1553,7 @@
     "address": "Мариуполь, пр. Металлургов 97",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.55440300000001,
+      37.55440299999999,
       47.10710000001347
     ],
     "source": "https://dostavka.7telecom.ru",
@@ -1134,7 +1566,7 @@
     "operationTime": "неизвестно",
     "coordinates": [
       37.96438499999999,
-      48.06315100001063
+      48.063151000010656
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -1146,7 +1578,7 @@
     "operationTime": "неизвестно",
     "coordinates": [
       37.964861,
-      48.042703000010725
+      48.0427030000107
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
@@ -1157,8 +1589,8 @@
     "address": "г. Мариуполь ул. Урицкого 63",
     "operationTime": "неизвестно",
     "coordinates": [
-      37.525568000000035,
-      47.12205800001342
+      37.525568000000014,
+      47.12205800001341
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"

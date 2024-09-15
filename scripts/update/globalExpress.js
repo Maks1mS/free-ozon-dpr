@@ -6,7 +6,7 @@ import { getTelegramMessage } from "../utils.js";
 import { collapseWhiteSpace } from "collapse-white-space";
 
 const OUTPUT_FILE = "data/02_global-express.json";
-const MAIN_URL = "https://t.me/Mariupol_global_express/1977";
+const MAIN_URL = "https://t.me/global_express_dnr/784";
 
 /*
 function generateReadableSchedule(schedule) {
@@ -113,8 +113,8 @@ async function getFromTelegram() {
   const addressesSection = Array.from(document.querySelectorAll("b")).find(
     (b) => b.textContent.includes("Наши адреса ПВЗ с OZON")
   );
-  const privilegesSection = Array.from(document.querySelectorAll("u")).find(
-    (u) => u.textContent.includes("Какие привилегии")
+  const privilegesSection = Array.from(document.querySelectorAll("a")).find(
+    (u) => u.textContent.includes("КАК ЗАКАЗАТЬ САМОСТОЯТЕЛЬНО С : OZON/ Wildberries/ Яндекс Маркет")
   );
 
   const links = [];
@@ -131,7 +131,9 @@ async function getFromTelegram() {
     const textContent = collapseWhiteSpace(
       link.innerHTML.replace(/<br\s*\/?>/gi, " ")
     );
-    const pvzData = await getPVZFromPost(link.href);
+    let pvzData = await getPVZFromPost(link.href.replace('Mariupol_global_express', 'global_express_dnr'));
+
+    if (!pvzData || !pvzData.coordinates) return undefined;
 
     return {
       ...pvzData,
@@ -140,7 +142,7 @@ async function getFromTelegram() {
     };
   });
 
-  return data;
+  return data.filter(Boolean);
 }
 
 /*
