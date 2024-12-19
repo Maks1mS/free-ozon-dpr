@@ -24,6 +24,18 @@
     "provider": "WOЯЖ"
   },
   {
+    "id": "1215804",
+    "coordinates": [
+      38.484234,
+      48.038333
+    ],
+    "name": "ПВЗ-07 Шахтерск",
+    "address": "Шахтёрск, ул. Берегового 11",
+    "operationTime": "пн-вс с 9:00 до 18:00",
+    "source": "https://login.woyag.ru/map",
+    "provider": "WOЯЖ"
+  },
+  {
     "id": "538186",
     "coordinates": [
       37.798876,
@@ -372,6 +384,18 @@
     "provider": "WOЯЖ"
   },
   {
+    "id": "1215788",
+    "coordinates": [
+      37.774099,
+      48.037829
+    ],
+    "name": "ПВЗ-41 Маяк",
+    "address": "Донецк, ул. Артема 179б",
+    "operationTime": "пн-вс с 9:00 до 18:00",
+    "source": "https://login.woyag.ru/map",
+    "provider": "WOЯЖ"
+  },
+  {
     "id": "538094",
     "coordinates": [
       37.807773,
@@ -480,6 +504,18 @@
     "provider": "WOЯЖ"
   },
   {
+    "id": "1229562",
+    "coordinates": [
+      37.795304,
+      48.011411
+    ],
+    "name": "ПВЗ-55 Щорса 38",
+    "address": "Донецк, ул. Щорса 38",
+    "operationTime": "пн-вс с 9:00 до 18:00",
+    "source": "https://login.woyag.ru/map",
+    "provider": "WOЯЖ"
+  },
+  {
     "id": "1230956",
     "coordinates": [
       37.966101,
@@ -557,8 +593,8 @@
       38.761523,
       48.021133
     ],
-    "name": "Снежное, ул. Дзержинского, 2 ",
-    "address": "Снежное, ул. Дзержинского, 2 ",
+    "name": "г. Снежное, ул. Дзержинского, 2 ",
+    "address": "г. Снежное, ул. Дзержинского, 2 ",
     "operationTime": "<a href=\"https://vk.com/global_express_dnr?w=address-124759560_72654\">ГРАФИК РАБОТЫ</a>",
     "source": "https://t.me/global_express_dnr/784",
     "provider": "Global Express"
@@ -816,6 +852,18 @@
     "provider": "ПВЗ ДНР"
   },
   {
+    "id": "1224264",
+    "coordinates": [
+      37.777302,
+      48.060357
+    ],
+    "name": "ПВЗ г. Донецк, пр-кт Партизанский, 75",
+    "address": "г. Донецк, пр-кт Партизанский, 75",
+    "operationTime": "пн-вс с 9:00 до 17:45",
+    "source": "https://t.me/ozon_wb_dpr/627",
+    "provider": "ПВЗ ДНР"
+  },
+  {
     "id": "549324",
     "coordinates": [
       37.82926,
@@ -907,6 +955,30 @@
     ],
     "name": "ПВЗ г. Донецк, ул. Вышнеградского, 25",
     "address": "г. Донецк, ул. Вышнеградского, 25",
+    "operationTime": "пн-вс с 9:00 до 17:45",
+    "source": "https://t.me/ozon_wb_dpr/627",
+    "provider": "ПВЗ ДНР"
+  },
+  {
+    "id": "1236281",
+    "coordinates": [
+      37.905976,
+      48.071797
+    ],
+    "name": "ПВЗ г. Макеевка, ул. Коккинаки, 60",
+    "address": "г. Макеевка, ул. Коккинаки, 60",
+    "operationTime": "пн-вс с 9:00 до 17:45",
+    "source": "https://t.me/ozon_wb_dpr/627",
+    "provider": "ПВЗ ДНР"
+  },
+  {
+    "id": "1236293",
+    "coordinates": [
+      37.85559,
+      47.977886
+    ],
+    "name": "ПВЗ г. Донецк, ул. Майская, 18б",
+    "address": "г. Донецк, ул. Майская, 18б",
     "operationTime": "пн-вс с 9:00 до 17:45",
     "source": "https://t.me/ozon_wb_dpr/627",
     "provider": "ПВЗ ДНР"
