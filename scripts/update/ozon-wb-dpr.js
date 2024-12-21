@@ -83,8 +83,8 @@ async function getFromSite() {
   const scripts = document.querySelectorAll("script");
 
   for (let script of scripts) {
-    if (script.textContent.includes('descr: "Бесплатный озон')) {
-      let x = script.textContent.split("[\n{\n").pop().split("\n},\n]")[0];
+    if (script.textContent.includes('descr:"Бесплатный озон')) {
+      let x = script.textContent.split("[{").pop().split("},]")[0];
 
       if (x) {
         const points = new Function(`return [{${x}}]`)();

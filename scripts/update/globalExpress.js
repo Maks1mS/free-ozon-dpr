@@ -181,7 +181,7 @@ async function globalExpress() {
         source: MAIN_URL,
         points: points.map((p) => ({
           ...p,
-          operationTime: `<a href="https://vk.com/aliexpress___delivery?w=address-124759560_72654">ГРАФИК РАБОТЫ</a>`,
+          operationTime: `<a href="https://vk.com/global_express_dnr?w=address-124759560_72654">ГРАФИК РАБОТЫ</a>`,
         })),
       },
       undefined,

@@ -7,7 +7,7 @@ import {
 
 async function main() {
   await woyag();
-  // - await sevenDostavka();
+  // await sevenDostavka();
   await ozonWbDpr();
   await globalExpress();
 }
