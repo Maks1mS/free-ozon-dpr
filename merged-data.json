@@ -612,7 +612,7 @@
     "provider": "Global Express"
   },
   {
-    "id": "517058",
+    "id": null,
     "coordinates": [
       37.845475,
       47.994778
@@ -624,7 +624,7 @@
     "provider": "ПВЗ ДНР"
   },
   {
-    "id": "517054",
+    "id": null,
     "coordinates": [
       37.790642,
       47.988073
@@ -636,7 +636,7 @@
     "provider": "ПВЗ ДНР"
   },
   {
-    "id": "517053",
+    "id": null,
     "coordinates": [
       37.694046,
       47.949874
@@ -648,7 +648,7 @@
     "provider": "ПВЗ ДНР"
   },
   {
-    "id": "514822",
+    "id": null,
     "coordinates": [
       37.798637,
       48.009
@@ -660,7 +660,7 @@
     "provider": "ПВЗ ДНР"
   },
   {
-    "id": "516734",
+    "id": null,
     "coordinates": [
       37.551447,
       47.106867
@@ -672,7 +672,7 @@
     "provider": "ПВЗ ДНР"
   },
   {
-    "id": "517062",
+    "id": null,
     "coordinates": [
       37.960468,
       48.041197
@@ -684,7 +684,7 @@
     "provider": "ПВЗ ДНР"
   },
   {
-    "id": "517055",
+    "id": null,
     "coordinates": [
       37.781488,
       48.03651
@@ -696,7 +696,7 @@
     "provider": "ПВЗ ДНР"
   },
   {
-    "id": "517061",
+    "id": null,
     "coordinates": [
       37.7964,
       48.00381
@@ -708,7 +708,7 @@
     "provider": "ПВЗ ДНР"
   },
   {
-    "id": "517059",
+    "id": null,
     "coordinates": [
       37.807755,
       48.016661
@@ -720,7 +720,7 @@
     "provider": "ПВЗ ДНР"
   },
   {
-    "id": "514844",
+    "id": null,
     "coordinates": [
       37.835405,
       48.002471
@@ -948,7 +948,7 @@
     "provider": "ПВЗ ДНР"
   },
   {
-    "id": "517056",
+    "id": null,
     "coordinates": [
       37.898826,
       47.989924
@@ -2899,6 +2899,30 @@
     "coordinates": [
       37.525568000000035,
       47.12205800001341
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "517056",
+    "name": "Донецк, Вышнеградского, 25",
+    "address": "Донецк, Вышнеградского, 25",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.899015,
+      47.99004900001087
+    ],
+    "source": "https://dostavka.7telecom.ru",
+    "provider": "7dostavka"
+  },
+  {
+    "id": "517058",
+    "name": "г. Донецк, ул. Харитонова, 3А",
+    "address": "г. Донецк, ул. Харитонова, 3А",
+    "operationTime": "неизвестно",
+    "coordinates": [
+      37.845430000000015,
+      47.99795600001083
     ],
     "source": "https://dostavka.7telecom.ru",
     "provider": "7dostavka"
